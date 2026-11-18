@@ -1,14 +1,16 @@
 MIT License
 
-Copyright (c) 2026 xibao
+Copyright (c) 2026 xibao (applies only to the format conversion and
+introductory text authored in this repository; see NOTICE below)
 
-NOTICE: The methodological frameworks reflected in the skills in this
-repository are inspired by the book "最实用的Prompt教程：从提问、学习到决策与认识自己"
-by 数字生命卡兹克 (轻科技). The SKILL.md files are original, independently
-written summaries and practical notes by the copyright holder, not copies of
-the book's text. The ideas and methods are not copyrighted; the original
-expressions in the book remain the property of the book's author. See README
-for the full attribution and acknowledgements.
+NOTICE: All 11 skills in this repository are taken directly from the book
+"最实用的Prompt教程：从提问、学习到决策与认识自己" by 数字生命卡兹克 (轻科技).
+The contributor's only work was reformatting the book's prompts into the
+SKILL.md format; no original methodology or content is contributed here.
+All methods and their copyright belong to the book's author. The MIT license
+below covers only the format conversion and the original explanatory text
+in this repository, and grants no rights over the book's content. See README
+for full attribution.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
